@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 # Hi, I'm Tushar Sharma 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ts1997855-ctrl&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ts1997855-ctrl&layout=compact&theme=tokyonight)
 
 ## 🔒 Cybersecurity Student | Python Developer | Network Security Enthusiast
 

@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 # Hi, I'm Tushar Sharma 👋
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ts1997855-ctrl&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts1997855-ctrl&layout=compact&theme=github_dark" height="170"/>
-</p>
+
 ## 🔒 Cybersecurity Student | Python Developer | Network Security Enthusiast
 
 I am a Bachelor of Cyber Security student at Torrens University, Australia, passionate about cybersecurity, ethical hacking, network security, and Python development. I enjoy building practical security tools and continuously improving my technical skills.
